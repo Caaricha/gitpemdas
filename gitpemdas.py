@@ -22,7 +22,7 @@ data_panen = {
 }
 
 def tampilkan_hasil_panen(data):
-    print("")
+    print("Soal Pertama")
     for lokasi in data:
         print("Lokasi:", data[lokasi]["nama_lokasi"])
         print("Hasil Panen:")
