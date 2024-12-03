@@ -43,7 +43,7 @@ def tampilkan_hasil_panen(data):
     print()
 
 
-    print("")
+    print("Soal Keempat")
     total_padi = 0
     total_kedelai = 0
     for lokasi in data:
