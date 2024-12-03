@@ -37,7 +37,7 @@ def tampilkan_hasil_panen(data):
     print("Hasil Panen Jagung:", lokasi2["hasil_panen"]["jagung"])
     print()
 
-    print("")
+    print("Ini soal ke 3")
     lokasi3 = data["lokasi3"]
     print("Nama Lokasi dari lokasi3 adalah", lokasi3["nama_lokasi"])
     print()
